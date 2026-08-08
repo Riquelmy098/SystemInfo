@@ -19,5 +19,4 @@ android {
 
 dependencies {
     compileOnly 'org.godotengine:godot:4.7.1.stable'
-    implementation 'com.google.android.material:material:1.14.0'
 }
